@@ -126,7 +126,15 @@ body {
   font-weight: 400;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
-
+footer {
+  color: #222;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 200;
+  line-height: 1;
+  font-size: 1em;
+  position: fixed;
+  vertical-align: baseline;
+  }
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
